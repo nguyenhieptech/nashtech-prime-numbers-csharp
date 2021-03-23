@@ -23,7 +23,7 @@ namespace PrimeNumberApp
             break;
           }
         }
-        
+
         if (isPrime)
         {
           Console.Write($"{i}  ");
